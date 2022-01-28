@@ -1,0 +1,9 @@
+.navbar-light .navbar-nav .nav-link.active, .navbar-light .navbar-nav .show>.nav-link {
+    color: rgb(255 255 255);
+}
+.navbar-light .navbar-nav .nav-link {
+    color: rgb(250 245 245);
+}
+.navbar-light .navbar-brand {
+    color: rgb(255 255 255 / 90%);
+}
